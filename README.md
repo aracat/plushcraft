@@ -4,7 +4,7 @@ A place to put plush creation related things
 
 ## G4 eye embroidery design
 
-![](eye embroidery 120mm/eyes.png)
+![](eye%20embroidery%20120mm/eyes.png) ![](eye%20embroidery%20120mm/embroidered.png)
 
 This is an [inkstitch](https://www.inkstitch.org) compatible embroidery design for G4 pony eyes that's about as large as you can fit in a 4" / 120mm embroidery hoop.
 
@@ -18,7 +18,7 @@ Why are these on GitHub? Because deviantArt doesn't like the files I want to upl
 
 ### Do you want to make a plush with these eyes?
 
-Download the [left](eye embroidery 120mm/left.pes) and [right](eye embroidery 120mm/right.pes) .pes files. The left eye goes on the pony's left side, not your left side when looking at it or the pony's "left" (i.e. right) side before it's turned out.
+Download the [left](eye%20embroidery%20120mm/left.pes) and [right](eye%20embroidery%20120mm/right.pes) .pes files. The left eye goes on the pony's left side, not your left side when looking at it or the pony's "left" (i.e. right) side before it's turned out.
 
 Each eye design includes the following steps and will run in this order:
 
@@ -38,7 +38,7 @@ Each eye design includes the following steps and will run in this order:
 
 ### Do you want to see how the design works or modify it for your needs?
 
-Download the [.svg file](eye embroidery 120mm/eyes.svg).
+Download the [.svg file](eye%20embroidery%20120mm/eyes.svg).
 
 Some additional documentation for this design and hints for rendering it for your embroidery machine are included in the file itself.
 
