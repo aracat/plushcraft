@@ -36,6 +36,8 @@ Each eye design includes the following steps and will run in this order:
 * the stroke along the top of the eye (black)
 * an alignment guide in bright red, which you'll want to skip
 
+I happened to use blue-green colors for the iris. You can use different colors for each region, just keep track of which thread color goes where.
+
 ### Do you want to see how the design works or modify it for your needs?
 
 Download the [.svg file](eye%20embroidery%20120mm/eyes.svg).
